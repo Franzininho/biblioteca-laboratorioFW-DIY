@@ -1,7 +1,5 @@
 # Biblioteca laboratorioFW-DIY
 
-## O que você encontra nesta biblioteca
-
 Nesta biblioteca é possível encontrar o mapeamento entre a pinagem da placa Franzininho Wifi e a codificação dos pinos de ativação da placa [Laboratório DIY - Franzininho Wifi](https://github.com/Franzininho/laboratorio-diy-franizininho-wifi).
 
 ## Como instalar a biblioteca
@@ -45,7 +43,7 @@ void loop{
 
 ## Informações importantes
 
--   [Mapeamento dos pinos](./mapeamento.md)
+- [Mapeamento dos pinos](./mapeamento.md)
 
 ---
 
